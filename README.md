@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I'm Alex, A Frontend Web Developer and aspiring Indie Game Dev.
-- 🔭 I’m currently working on My Personal Website and a [Weather App](https://github.com/TheKillerRex27/Weather-App-Project/)
+- 🔭 I’m currently working on My Personal Website and a [Space Tourism Website](https://github.com/TheKillerRex27/space-tourism-website/)
 - 🌱 I’m currently learning React, Node.js and Python
 - 👯 I’m looking to collaborate on any interesting and fun projects you may have
 - 🤔 I’m looking for help with learning and building my portfolio
