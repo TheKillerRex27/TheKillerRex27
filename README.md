@@ -1,7 +1,7 @@
 ### Hi there 👋
-# I'm Alex, A Frontend Web Developer and aspiring Indie Game Dev.
+# I'm Alex, A Frontend Web Developer, aspiring Indie Game Dev, and HNG finalist.
 - 🔭 I’m currently working on My Personal Website and a [Space Tourism Website](https://github.com/TheKillerRex27/space-tourism-website/)
-- 🌱 I’m currently learning React, Node.js and Python
+- 🌱 I’m currently learning Next.js, Node.js and Python
 - 👯 I’m looking to collaborate on any interesting and fun projects you may have
 - 🤔 I’m looking for help with learning and building my portfolio
 - 💬 Ask me about anything or chat me up on my Twitter: [@TheKillerRex27](https://twitter.com/TheKillerRex27)
